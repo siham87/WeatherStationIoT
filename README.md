@@ -4,7 +4,7 @@ Weather Station Connected with Node-RED
 
 Ce projet à été réalisé par [@siham](https://github.com/siham87) 
 ## Video :
-[![video](https://img.youtube.com/vi/_VJEbB0QMjM/0.jpg)](https://www.youtube.com/watch?v=_VJEbB0QMjM)
+[![video](https://img.youtube.com/vi/DZRN9IsLjPY.jpg)](https://www.youtube.com/watch?v=DZRN9IsLjPY)
 
 
 ## **Bibliothéque utilisée**
