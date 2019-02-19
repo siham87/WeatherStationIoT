@@ -76,6 +76,4 @@ void loop() {
 ```
 ## **Node-Red**
 
-![](.png)
-
-![photo: ](.jpg)
+![photo: ](weatherstationnode-red.jpg)
